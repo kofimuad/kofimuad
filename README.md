@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kofimuad&label=Profile%20views&color=0e75b6&style=flat" alt="kofimuad" /> </p>
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **iamkofiantwi@outlook.com**
 
