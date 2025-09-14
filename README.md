@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 📫 How to reach me **iamkofiantwi@outlook.com**
+- 📫 How to reach me **iambismark38@gmail.com**
 
 - ⚡ Fun fact **I love dogs.**
 
